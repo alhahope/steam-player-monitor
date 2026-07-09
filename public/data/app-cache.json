@@ -1,1 +1,252 @@
-{}
+{
+  "440": {
+    "name": "Team Fortress 2",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
+    "lastSeenAt": "2026-07-09T08:22:47.200Z"
+  },
+  "550": {
+    "name": "Left 4 Dead 2",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
+    "lastSeenAt": "2026-07-09T08:22:47.568Z"
+  },
+  "570": {
+    "name": "Dota 2",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998",
+    "lastSeenAt": "2026-07-09T08:22:45.657Z"
+  },
+  "730": {
+    "name": "Counter-Strike 2",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1780435263",
+    "lastSeenAt": "2026-07-09T08:22:45.626Z"
+  },
+  "4000": {
+    "name": "Garry's Mod",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
+    "lastSeenAt": "2026-07-09T08:22:48.686Z"
+  },
+  "105600": {
+    "name": "Terraria",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+    "lastSeenAt": "2026-07-09T08:22:47.184Z"
+  },
+  "227300": {
+    "name": "Euro Truck Simulator 2",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1782839042",
+    "lastSeenAt": "2026-07-09T08:22:47.566Z"
+  },
+  "230410": {
+    "name": "Warframe",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg?t=1783354915",
+    "lastSeenAt": "2026-07-09T08:22:46.747Z"
+  },
+  "236390": {
+    "name": "War Thunder",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/65885881b96806d55fea45e130233fdafd78b129/header.jpg?t=1783408533",
+    "lastSeenAt": "2026-07-09T08:22:46.166Z"
+  },
+  "250900": {
+    "name": "The Binding of Isaac: Rebirth",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+    "lastSeenAt": "2026-07-09T08:22:48.388Z"
+  },
+  "252490": {
+    "name": "Rust",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+    "lastSeenAt": "2026-07-09T08:22:46.570Z"
+  },
+  "252950": {
+    "name": "Rocket League®",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/0a3a0440e101436b154c06040722f27950d67e22/header_alt_assets_16.jpg?t=1781288662",
+    "lastSeenAt": "2026-07-09T08:22:48.157Z"
+  },
+  "271590": {
+    "name": "Grand Theft Auto V Legacy",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
+    "lastSeenAt": "2026-07-09T08:22:45.887Z"
+  },
+  "284160": {
+    "name": "BeamNG.drive",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/17f8af1312bc48e6cd90e5fb639d4981682af260/header.jpg?t=1772048121",
+    "lastSeenAt": "2026-07-09T08:22:48.101Z"
+  },
+  "322170": {
+    "name": "Geometry Dash",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg?t=1775300400",
+    "lastSeenAt": "2026-07-09T08:22:46.086Z"
+  },
+  "322330": {
+    "name": "Don't Starve Together",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/da5d1bc20a2b35fe987c68047ba96a7f3d25c982/header_alt_assets_50.jpg?t=1782413299",
+    "lastSeenAt": "2026-07-09T08:22:48.099Z"
+  },
+  "359550": {
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/d8a94437103c0b244ad4a9dbb8cc2d912e3b36ce/header_alt_assets_24.jpg?t=1783011073",
+    "lastSeenAt": "2026-07-09T08:22:46.266Z"
+  },
+  "381210": {
+    "name": "Dead by Daylight",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1782395976",
+    "lastSeenAt": "2026-07-09T08:22:46.663Z"
+  },
+  "394360": {
+    "name": "Hearts of Iron IV",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1782396105",
+    "lastSeenAt": "2026-07-09T08:22:47.893Z"
+  },
+  "413150": {
+    "name": "Stardew Valley",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+    "lastSeenAt": "2026-07-09T08:22:46.892Z"
+  },
+  "431960": {
+    "name": "Wallpaper Engine",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
+    "lastSeenAt": "2026-07-09T08:22:45.629Z"
+  },
+  "438100": {
+    "name": "VRChat",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1762366454",
+    "lastSeenAt": "2026-07-09T08:22:47.526Z"
+  },
+  "553850": {
+    "name": "HELLDIVERS™ 2",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/f11c258b04a5e3e7771c1bab60f324ebf6c6c6fb/header.jpg?t=1779899567",
+    "lastSeenAt": "2026-07-09T08:22:46.981Z"
+  },
+  "578080": {
+    "name": "PUBG: BATTLEGROUNDS",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1781659328",
+    "lastSeenAt": "2026-07-09T08:22:45.564Z"
+  },
+  "1086940": {
+    "name": "Baldur's Gate 3",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+    "lastSeenAt": "2026-07-09T08:22:47.478Z"
+  },
+  "1091500": {
+    "name": "Cyberpunk 2077",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
+    "lastSeenAt": "2026-07-09T08:22:48.144Z"
+  },
+  "1172470": {
+    "name": "Apex Legends™",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0bd74245b869287a2dc7f682e6013f7ed08d98e3/header.jpg?t=1778502442",
+    "lastSeenAt": "2026-07-09T08:22:45.820Z"
+  },
+  "1174180": {
+    "name": "Red Dead Redemption 2",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+    "lastSeenAt": "2026-07-09T08:22:48.634Z"
+  },
+  "1203220": {
+    "name": "NARAKA: BLADEPOINT",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/3cd5888eae926f78cdeab6de30cb1cd94ef8b9b1/header.jpg?t=1783344476",
+    "lastSeenAt": "2026-07-09T08:22:47.771Z"
+  },
+  "1245620": {
+    "name": "ELDEN RING",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1767883716",
+    "lastSeenAt": "2026-07-09T08:22:47.822Z"
+  },
+  "1422450": {
+    "name": "Deadlock",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1769127177",
+    "lastSeenAt": "2026-07-09T08:22:46.739Z"
+  },
+  "1808500": {
+    "name": "ARC Raiders",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/982cca1f1f19a646301b6051e82562d29092d63e/header_alt_assets_5.jpg?t=1781265791",
+    "lastSeenAt": "2026-07-09T08:22:46.381Z"
+  },
+  "1938090": {
+    "name": "Call of Duty®",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1783440243",
+    "lastSeenAt": "2026-07-09T08:22:47.909Z"
+  },
+  "1973530": {
+    "name": "Limbus Company",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg?t=1783074489",
+    "lastSeenAt": "2026-07-09T08:22:47.051Z"
+  },
+  "2357570": {
+    "name": "Overwatch®",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/217c51ee328bb2f97c66776bb92b1ddb3d8333fe/header_alt_assets_21.jpg?t=1782523417",
+    "lastSeenAt": "2026-07-09T08:22:46.499Z"
+  },
+  "2507950": {
+    "name": "Delta Force",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/3ae5740670d823fe86a8405a73b01469b6885597/header_alt_assets_12.jpg?t=1782975572",
+    "lastSeenAt": "2026-07-09T08:22:46.297Z"
+  },
+  "2676230": {
+    "name": "FiveM",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676230/9e8a2df18bfdd24267aefa6d3e14778c2ecb1708/header.jpg?t=1778609608",
+    "lastSeenAt": "2026-07-09T08:22:46.036Z"
+  },
+  "2767030": {
+    "name": "Marvel Rivals",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4a41f0888ee8d13bd2aa84a4fa2bf5a4e3e7dc39/header.jpg?t=1781255145",
+    "lastSeenAt": "2026-07-09T08:22:46.500Z"
+  },
+  "2807960": {
+    "name": "Battlefield™ 6",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1783436512",
+    "lastSeenAt": "2026-07-09T08:22:46.957Z"
+  },
+  "2868840": {
+    "name": "Slay the Spire 2",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1776735385",
+    "lastSeenAt": "2026-07-09T08:22:45.865Z"
+  },
+  "3041230": {
+    "name": "Windrose",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/7e838d87d787735d5d29d72777c5ee55653dfb2b/header.jpg?t=1782370662",
+    "lastSeenAt": "2026-07-09T08:22:47.351Z"
+  },
+  "3105440": {
+    "name": "Heroes of Might and Magic: Olden Era",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/e2bef853b7cb19e3d5f019022309783609e8454f/header.jpg?t=1783068617",
+    "lastSeenAt": "2026-07-09T08:22:48.786Z"
+  },
+  "3124540": {
+    "name": "Far Far West",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/2d55092d45b1784dcc7cb0ba6ad3f919e62eb5d0/header.jpg?t=1781702029",
+    "lastSeenAt": "2026-07-09T08:22:48.576Z"
+  },
+  "3240220": {
+    "name": "Grand Theft Auto V Enhanced",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+    "lastSeenAt": "2026-07-09T08:22:47.109Z"
+  },
+  "3241660": {
+    "name": "R.E.P.O.",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+    "lastSeenAt": "2026-07-09T08:22:45.864Z"
+  },
+  "3321460": {
+    "name": "Crimson Desert",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893",
+    "lastSeenAt": "2026-07-09T08:22:47.297Z"
+  },
+  "3405690": {
+    "name": "EA SPORTS FC™ 26",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/64d362e71693f1ec7023f52ab94026f9a0d4fbed/header.jpg?t=1783095306",
+    "lastSeenAt": "2026-07-09T08:22:46.833Z"
+  },
+  "3472040": {
+    "name": "NBA 2K26",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472040/46650897e3b766a8b7f5e50313fcabba9afcf564/header_alt_assets_6.jpg?t=1782486648",
+    "lastSeenAt": "2026-07-09T08:22:48.402Z"
+  },
+  "3513350": {
+    "name": "Wuthering Waves",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3513350/42c99bcfe9e12f07fc5e0cba02f2b2cb25aea3e4/header.jpg?t=1780863406",
+    "lastSeenAt": "2026-07-09T08:22:48.554Z"
+  },
+  "3892270": {
+    "name": "Gamble With Your Friends",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1782258835",
+    "lastSeenAt": "2026-07-09T08:22:48.350Z"
+  }
+}
