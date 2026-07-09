@@ -1,0 +1,10 @@
+{
+  "generatedAt": "1970-01-01T00:00:00.000Z",
+  "source": "seed",
+  "status": {
+    "ok": true,
+    "message": "Seed data. Run npm run update:data to fetch Steam data."
+  },
+  "games": []
+}
+
