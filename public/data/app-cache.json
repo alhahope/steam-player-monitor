@@ -29,6 +29,11 @@
     "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
     "lastSeenAt": "2026-07-09T08:22:47.184Z"
   },
+  "108600": {
+    "name": "Project Zomboid",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
+    "lastSeenAt": "2026-09-05T18:12:44.149Z"
+  },
   "227300": {
     "name": "Euro Truck Simulator 2",
     "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1782839042",
@@ -154,6 +159,16 @@
     "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1769127177",
     "lastSeenAt": "2026-07-09T08:22:46.739Z"
   },
+  "1449850": {
+    "name": "Yu-Gi-Oh! Master Duel",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/3dabbf618664c7a561202771e3754b6690949159/header.jpg?t=1788064919",
+    "lastSeenAt": "2026-09-05T18:12:44.199Z"
+  },
+  "1623730": {
+    "name": "Palworld",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
+    "lastSeenAt": "2026-09-05T18:12:44.134Z"
+  },
   "1808500": {
     "name": "ARC Raiders",
     "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/982cca1f1f19a646301b6051e82562d29092d63e/header_alt_assets_5.jpg?t=1781265791",
@@ -174,6 +189,16 @@
     "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/217c51ee328bb2f97c66776bb92b1ddb3d8333fe/header_alt_assets_21.jpg?t=1782523417",
     "lastSeenAt": "2026-07-09T08:22:46.499Z"
   },
+  "2406770": {
+    "name": "Bodycam",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1788548796",
+    "lastSeenAt": "2026-09-05T18:12:44.200Z"
+  },
+  "2483190": {
+    "name": "Forza Horizon 6",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1788545100",
+    "lastSeenAt": "2026-09-05T18:12:44.320Z"
+  },
   "2507950": {
     "name": "Delta Force",
     "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/3ae5740670d823fe86a8405a73b01469b6885597/header_alt_assets_12.jpg?t=1782975572",
@@ -183,6 +208,11 @@
     "name": "FiveM",
     "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676230/9e8a2df18bfdd24267aefa6d3e14778c2ecb1708/header.jpg?t=1778609608",
     "lastSeenAt": "2026-07-09T08:22:46.036Z"
+  },
+  "2694490": {
+    "name": "Path of Exile 2",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1787697213",
+    "lastSeenAt": "2026-09-05T18:12:44.300Z"
   },
   "2767030": {
     "name": "Marvel Rivals",
@@ -244,9 +274,29 @@
     "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3513350/42c99bcfe9e12f07fc5e0cba02f2b2cb25aea3e4/header.jpg?t=1780863406",
     "lastSeenAt": "2026-07-09T08:22:48.554Z"
   },
+  "3527290": {
+    "name": "PEAK",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
+    "lastSeenAt": "2026-09-05T18:12:44.204Z"
+  },
+  "3678970": {
+    "name": "TBH: Task Bar Hero",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1786090477",
+    "lastSeenAt": "2026-09-05T18:12:44.278Z"
+  },
   "3892270": {
     "name": "Gamble With Your Friends",
     "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1782258835",
     "lastSeenAt": "2026-07-09T08:22:48.350Z"
+  },
+  "4001890": {
+    "name": "How to Fish",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788160834",
+    "lastSeenAt": "2026-09-05T18:12:44.118Z"
+  },
+  "4809930": {
+    "name": "WARDOGS Playtest",
+    "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809930/964155a6380ecfe36a6ccf723079b250b09f65f4/header.jpg?t=1785144389",
+    "lastSeenAt": "2026-09-05T18:12:44.112Z"
   }
 }
