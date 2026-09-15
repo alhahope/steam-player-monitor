@@ -1,10 +1,11 @@
 {
   "generatedAt": "2026-09-15T18:59:16.225Z",
-  "checkedAt": "2026-09-15T18:59:16.225Z",
+  "checkedAt": "2026-09-15T22:07:05.948Z",
   "source": "steam",
   "status": {
     "ok": false,
-    "message": "Updated 50 Steam games with 1 player count fallback(s)."
+    "message": "Steam chart update failed: Steam chart response did not include response.ranks.",
+    "lastSuccessfulAt": "2026-09-15T18:59:16.225Z"
   },
   "games": [
     {
