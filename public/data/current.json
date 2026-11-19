@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T13:29:49.113Z",
-  "checkedAt": "2026-11-19T13:29:49.113Z",
+  "generatedAt": "2026-11-19T21:45:00.676Z",
+  "checkedAt": "2026-11-19T21:45:00.676Z",
   "source": "steam",
   "status": {
     "ok": false,
@@ -15,9 +15,9 @@
       "name": "Counter-Strike 2",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1780435263",
       "storeUrl": "https://store.steampowered.com/app/730",
-      "currentPlayers": 1029914,
-      "previousPlayers": 390957,
-      "change": 638957
+      "currentPlayers": 748818,
+      "previousPlayers": 1029914,
+      "change": -281096
     },
     {
       "appid": 570,
@@ -27,9 +27,9 @@
       "name": "Dota 2",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998",
       "storeUrl": "https://store.steampowered.com/app/570",
-      "currentPlayers": 758989,
-      "previousPlayers": 374200,
-      "change": 384789
+      "currentPlayers": 589304,
+      "previousPlayers": 758989,
+      "change": -169685
     },
     {
       "appid": 578080,
@@ -39,9 +39,9 @@
       "name": "PUBG: BATTLEGROUNDS",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1781659328",
       "storeUrl": "https://store.steampowered.com/app/578080",
-      "currentPlayers": 715239,
-      "previousPlayers": 165720,
-      "change": 549519
+      "currentPlayers": 129596,
+      "previousPlayers": 715239,
+      "change": -585643
     },
     {
       "appid": 4262460,
@@ -51,9 +51,9 @@
       "name": "ROB RUN",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
       "storeUrl": "https://store.steampowered.com/app/4262460",
-      "currentPlayers": 341663,
-      "previousPlayers": 258410,
-      "change": 83253
+      "currentPlayers": 451858,
+      "previousPlayers": 341663,
+      "change": 110195
     },
     {
       "appid": 431960,
@@ -63,9 +63,9 @@
       "name": "Wallpaper Engine",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
       "storeUrl": "https://store.steampowered.com/app/431960",
-      "currentPlayers": 109905,
-      "previousPlayers": 63982,
-      "change": 45923
+      "currentPlayers": 47108,
+      "previousPlayers": 109905,
+      "change": -62797
     },
     {
       "appid": 1422450,
@@ -88,9 +88,9 @@
       "name": "Slay the Spire 2",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1776735385",
       "storeUrl": "https://store.steampowered.com/app/2868840",
-      "currentPlayers": 137558,
-      "previousPlayers": 93674,
-      "change": 43884
+      "currentPlayers": 63489,
+      "previousPlayers": 137558,
+      "change": -74069
     },
     {
       "appid": 1172470,
@@ -100,9 +100,9 @@
       "name": "Apex Legends™",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0bd74245b869287a2dc7f682e6013f7ed08d98e3/header.jpg?t=1778502442",
       "storeUrl": "https://store.steampowered.com/app/1172470",
-      "currentPlayers": 209805,
-      "previousPlayers": 62526,
-      "change": 147279
+      "currentPlayers": 48939,
+      "previousPlayers": 209805,
+      "change": -160866
     },
     {
       "appid": 4115450,
@@ -112,9 +112,9 @@
       "name": "Phantom Blade Zero",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793261976",
       "storeUrl": "https://store.steampowered.com/app/4115450",
-      "currentPlayers": 214044,
-      "previousPlayers": 67694,
-      "change": 146350
+      "currentPlayers": 27849,
+      "previousPlayers": 214044,
+      "change": -186195
     },
     {
       "appid": 1938090,
@@ -124,9 +124,9 @@
       "name": "Call of Duty®",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1783440243",
       "storeUrl": "https://store.steampowered.com/app/1938090",
-      "currentPlayers": 98153,
-      "previousPlayers": 93760,
-      "change": 4393
+      "currentPlayers": 85605,
+      "previousPlayers": 98153,
+      "change": -12548
     },
     {
       "appid": 1091500,
@@ -136,9 +136,9 @@
       "name": "Cyberpunk 2077",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
       "storeUrl": "https://store.steampowered.com/app/1091500",
-      "currentPlayers": 66766,
-      "previousPlayers": 56752,
-      "change": 10014
+      "currentPlayers": 67577,
+      "previousPlayers": 66766,
+      "change": 811
     },
     {
       "appid": 3240220,
@@ -148,9 +148,9 @@
       "name": "Grand Theft Auto V Enhanced",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "storeUrl": "https://store.steampowered.com/app/3240220",
-      "currentPlayers": 83249,
-      "previousPlayers": 47136,
-      "change": 36113
+      "currentPlayers": 45425,
+      "previousPlayers": 83249,
+      "change": -37824
     },
     {
       "appid": 236390,
@@ -160,9 +160,9 @@
       "name": "War Thunder",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/65885881b96806d55fea45e130233fdafd78b129/header.jpg?t=1783408533",
       "storeUrl": "https://store.steampowered.com/app/236390",
-      "currentPlayers": 68752,
-      "previousPlayers": 31986,
-      "change": 36766
+      "currentPlayers": 40756,
+      "previousPlayers": 68752,
+      "change": -27996
     },
     {
       "appid": 440,
@@ -172,9 +172,9 @@
       "name": "Team Fortress 2",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
       "storeUrl": "https://store.steampowered.com/app/440",
-      "currentPlayers": 100011,
-      "previousPlayers": 85247,
-      "change": 14764
+      "currentPlayers": 95735,
+      "previousPlayers": 100011,
+      "change": -4276
     },
     {
       "appid": 1973530,
@@ -184,9 +184,9 @@
       "name": "Limbus Company",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg?t=1783074489",
       "storeUrl": "https://store.steampowered.com/app/1973530",
-      "currentPlayers": 81651,
-      "previousPlayers": 65200,
-      "change": 16451
+      "currentPlayers": 29527,
+      "previousPlayers": 81651,
+      "change": -52124
     },
     {
       "appid": 359550,
@@ -196,9 +196,9 @@
       "name": "Tom Clancy's Rainbow Six Siege",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/d8a94437103c0b244ad4a9dbb8cc2d912e3b36ce/header_alt_assets_24.jpg?t=1783011073",
       "storeUrl": "https://store.steampowered.com/app/359550",
-      "currentPlayers": 35142,
-      "previousPlayers": 48235,
-      "change": -13093
+      "currentPlayers": 50337,
+      "previousPlayers": 35142,
+      "change": 15195
     },
     {
       "appid": 322170,
@@ -208,9 +208,9 @@
       "name": "Geometry Dash",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg?t=1775300400",
       "storeUrl": "https://store.steampowered.com/app/322170",
-      "currentPlayers": 32243,
-      "previousPlayers": 27965,
-      "change": 4278
+      "currentPlayers": 39609,
+      "previousPlayers": 32243,
+      "change": 7366
     },
     {
       "appid": 227300,
@@ -220,9 +220,9 @@
       "name": "Euro Truck Simulator 2",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1782839042",
       "storeUrl": "https://store.steampowered.com/app/227300",
-      "currentPlayers": 49754,
-      "previousPlayers": 15276,
-      "change": 34478
+      "currentPlayers": 39817,
+      "previousPlayers": 49754,
+      "change": -9937
     },
     {
       "appid": 230410,
@@ -232,9 +232,9 @@
       "name": "Warframe",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg?t=1783354915",
       "storeUrl": "https://store.steampowered.com/app/230410",
-      "currentPlayers": 58155,
-      "previousPlayers": 43486,
-      "change": 14669
+      "currentPlayers": 39407,
+      "previousPlayers": 58155,
+      "change": -18748
     },
     {
       "appid": 3393110,
@@ -244,9 +244,9 @@
       "name": "AION 2",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg?t=1790806400",
       "storeUrl": "https://store.steampowered.com/app/3393110",
-      "currentPlayers": 134881,
-      "previousPlayers": 102719,
-      "change": 32162
+      "currentPlayers": 127228,
+      "previousPlayers": 134881,
+      "change": -7653
     },
     {
       "appid": 381210,
@@ -256,9 +256,9 @@
       "name": "Dead by Daylight",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1782395976",
       "storeUrl": "https://store.steampowered.com/app/381210",
-      "currentPlayers": 42983,
-      "previousPlayers": 30848,
-      "change": 12135
+      "currentPlayers": 38347,
+      "previousPlayers": 42983,
+      "change": -4636
     },
     {
       "appid": 2767030,
@@ -268,9 +268,9 @@
       "name": "Marvel Rivals",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4a41f0888ee8d13bd2aa84a4fa2bf5a4e3e7dc39/header.jpg?t=1781255145",
       "storeUrl": "https://store.steampowered.com/app/2767030",
-      "currentPlayers": 29835,
-      "previousPlayers": 53350,
-      "change": -23515
+      "currentPlayers": 49766,
+      "previousPlayers": 29835,
+      "change": 19931
     },
     {
       "appid": 2357570,
@@ -280,9 +280,9 @@
       "name": "Overwatch®",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/217c51ee328bb2f97c66776bb92b1ddb3d8333fe/header_alt_assets_21.jpg?t=1782523417",
       "storeUrl": "https://store.steampowered.com/app/2357570",
-      "currentPlayers": 37063,
-      "previousPlayers": 38534,
-      "change": -1471
+      "currentPlayers": 39659,
+      "previousPlayers": 37063,
+      "change": 2596
     },
     {
       "appid": 1867240,
@@ -292,9 +292,9 @@
       "name": "WARDOGS",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789059636",
       "storeUrl": "https://store.steampowered.com/app/1867240",
-      "currentPlayers": 50264,
-      "previousPlayers": 49127,
-      "change": 1137
+      "currentPlayers": 63456,
+      "previousPlayers": 50264,
+      "change": 13192
     },
     {
       "appid": 250900,
@@ -304,9 +304,9 @@
       "name": "The Binding of Isaac: Rebirth",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
       "storeUrl": "https://store.steampowered.com/app/250900",
-      "currentPlayers": 39821,
-      "previousPlayers": 25375,
-      "change": 14446
+      "currentPlayers": 31354,
+      "previousPlayers": 39821,
+      "change": -8467
     },
     {
       "appid": 271590,
@@ -316,9 +316,9 @@
       "name": "Grand Theft Auto V Legacy",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
       "storeUrl": "https://store.steampowered.com/app/271590",
-      "currentPlayers": 71304,
-      "previousPlayers": 29163,
-      "change": 42141
+      "currentPlayers": 48671,
+      "previousPlayers": 71304,
+      "change": -22633
     },
     {
       "appid": 4348910,
@@ -328,9 +328,9 @@
       "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793220934",
       "storeUrl": "https://store.steampowered.com/app/4348910",
-      "currentPlayers": 94739,
-      "previousPlayers": 49264,
-      "change": 45475
+      "currentPlayers": 25313,
+      "previousPlayers": 94739,
+      "change": -69426
     },
     {
       "appid": 413150,
@@ -340,9 +340,9 @@
       "name": "Stardew Valley",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
       "storeUrl": "https://store.steampowered.com/app/413150",
-      "currentPlayers": 68295,
-      "previousPlayers": 36883,
-      "change": 31412
+      "currentPlayers": 32889,
+      "previousPlayers": 68295,
+      "change": -35406
     },
     {
       "appid": 2507950,
@@ -352,9 +352,9 @@
       "name": "Delta Force",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/3ae5740670d823fe86a8405a73b01469b6885597/header_alt_assets_12.jpg?t=1782975572",
       "storeUrl": "https://store.steampowered.com/app/2507950",
-      "currentPlayers": 96135,
-      "previousPlayers": 33995,
-      "change": 62140
+      "currentPlayers": 23455,
+      "previousPlayers": 96135,
+      "change": -72680
     },
     {
       "appid": 252490,
@@ -364,9 +364,9 @@
       "name": "Rust",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
       "storeUrl": "https://store.steampowered.com/app/252490",
-      "currentPlayers": 75468,
-      "previousPlayers": 43945,
-      "change": 31523
+      "currentPlayers": 80641,
+      "previousPlayers": 75468,
+      "change": 5173
     },
     {
       "appid": 3241660,
@@ -376,9 +376,9 @@
       "name": "R.E.P.O.",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
       "storeUrl": "https://store.steampowered.com/app/3241660",
-      "currentPlayers": 29448,
-      "previousPlayers": 16990,
-      "change": 12458
+      "currentPlayers": 23812,
+      "previousPlayers": 29448,
+      "change": -5636
     },
     {
       "appid": 553850,
@@ -388,9 +388,9 @@
       "name": "HELLDIVERS™ 2",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/f11c258b04a5e3e7771c1bab60f324ebf6c6c6fb/header.jpg?t=1779899567",
       "storeUrl": "https://store.steampowered.com/app/553850",
-      "currentPlayers": 24403,
-      "previousPlayers": 20946,
-      "change": 3457
+      "currentPlayers": 18348,
+      "previousPlayers": 24403,
+      "change": -6055
     },
     {
       "appid": 2807960,
@@ -400,9 +400,9 @@
       "name": "Battlefield™ 6",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1783436512",
       "storeUrl": "https://store.steampowered.com/app/2807960",
-      "currentPlayers": 22834,
-      "previousPlayers": 16938,
-      "change": 5896
+      "currentPlayers": 21276,
+      "previousPlayers": 22834,
+      "change": -1558
     },
     {
       "appid": 105600,
@@ -412,9 +412,9 @@
       "name": "Terraria",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
       "storeUrl": "https://store.steampowered.com/app/105600",
-      "currentPlayers": 29307,
-      "previousPlayers": 17430,
-      "change": 11877
+      "currentPlayers": 16655,
+      "previousPlayers": 29307,
+      "change": -12652
     },
     {
       "appid": 550,
@@ -424,9 +424,9 @@
       "name": "Left 4 Dead 2",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
       "storeUrl": "https://store.steampowered.com/app/550",
-      "currentPlayers": 26412,
-      "previousPlayers": 25604,
-      "change": 808
+      "currentPlayers": 19673,
+      "previousPlayers": 26412,
+      "change": -6739
     },
     {
       "appid": 438100,
@@ -436,9 +436,9 @@
       "name": "VRChat",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1762366454",
       "storeUrl": "https://store.steampowered.com/app/438100",
-      "currentPlayers": 48702,
-      "previousPlayers": 41914,
-      "change": 6788
+      "currentPlayers": 38323,
+      "previousPlayers": 48702,
+      "change": -10379
     },
     {
       "appid": 284160,
@@ -448,9 +448,9 @@
       "name": "BeamNG.drive",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/17f8af1312bc48e6cd90e5fb639d4981682af260/header.jpg?t=1772048121",
       "storeUrl": "https://store.steampowered.com/app/284160",
-      "currentPlayers": 18323,
-      "previousPlayers": 12951,
-      "change": 5372
+      "currentPlayers": 18754,
+      "previousPlayers": 18323,
+      "change": 431
     },
     {
       "appid": 238960,
@@ -460,9 +460,9 @@
       "name": "Path of Exile",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/19a8acaddb5659ef3c1c91e5d6beb89abf10718d/header.jpg?t=1794430224",
       "storeUrl": "https://store.steampowered.com/app/238960",
-      "currentPlayers": 61000,
-      "previousPlayers": 41731,
-      "change": 19269
+      "currentPlayers": 70929,
+      "previousPlayers": 61000,
+      "change": 9929
     },
     {
       "appid": 322330,
@@ -472,9 +472,9 @@
       "name": "Don't Starve Together",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/da5d1bc20a2b35fe987c68047ba96a7f3d25c982/header_alt_assets_50.jpg?t=1782413299",
       "storeUrl": "https://store.steampowered.com/app/322330",
-      "currentPlayers": 45944,
-      "previousPlayers": 15856,
-      "change": 30088
+      "currentPlayers": 10638,
+      "previousPlayers": 45944,
+      "change": -35306
     },
     {
       "appid": 1174180,
@@ -484,9 +484,9 @@
       "name": "Red Dead Redemption 2",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
       "storeUrl": "https://store.steampowered.com/app/1174180",
-      "currentPlayers": 37059,
-      "previousPlayers": 20384,
-      "change": 16675
+      "currentPlayers": 26152,
+      "previousPlayers": 37059,
+      "change": -10907
     },
     {
       "appid": 1203220,
@@ -496,9 +496,9 @@
       "name": "NARAKA: BLADEPOINT",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/3cd5888eae926f78cdeab6de30cb1cd94ef8b9b1/header.jpg?t=1783344476",
       "storeUrl": "https://store.steampowered.com/app/1203220",
-      "currentPlayers": 64333,
-      "previousPlayers": 13641,
-      "change": 50692
+      "currentPlayers": 5841,
+      "previousPlayers": 64333,
+      "change": -58492
     },
     {
       "appid": 108600,
@@ -508,9 +508,9 @@
       "name": "Project Zomboid",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
       "storeUrl": "https://store.steampowered.com/app/108600",
-      "currentPlayers": 33437,
-      "previousPlayers": 28136,
-      "change": 5301
+      "currentPlayers": 31587,
+      "previousPlayers": 33437,
+      "change": -1850
     },
     {
       "appid": 1808500,
@@ -520,9 +520,9 @@
       "name": "ARC Raiders",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/982cca1f1f19a646301b6051e82562d29092d63e/header_alt_assets_5.jpg?t=1781265791",
       "storeUrl": "https://store.steampowered.com/app/1808500",
-      "currentPlayers": 24047,
-      "previousPlayers": 28270,
-      "change": -4223
+      "currentPlayers": 35878,
+      "previousPlayers": 24047,
+      "change": 11831
     },
     {
       "appid": 394360,
@@ -532,9 +532,9 @@
       "name": "Hearts of Iron IV",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1782396105",
       "storeUrl": "https://store.steampowered.com/app/394360",
-      "currentPlayers": 36912,
-      "previousPlayers": 20009,
-      "change": 16903
+      "currentPlayers": 28825,
+      "previousPlayers": 36912,
+      "change": -8087
     },
     {
       "appid": 4080220,
@@ -544,9 +544,9 @@
       "name": "Steam App 4080220",
       "capsuleUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4080220/header.jpg",
       "storeUrl": "https://store.steampowered.com/app/4080220",
-      "currentPlayers": 28405,
-      "previousPlayers": 14823,
-      "change": 13582
+      "currentPlayers": 31899,
+      "previousPlayers": 28405,
+      "change": 3494
     },
     {
       "appid": 489830,
@@ -556,9 +556,9 @@
       "name": "The Elder Scrolls V: Skyrim Special Edition",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
       "storeUrl": "https://store.steampowered.com/app/489830",
-      "currentPlayers": 22815,
-      "previousPlayers": 24709,
-      "change": -1894
+      "currentPlayers": 31227,
+      "previousPlayers": 22815,
+      "change": 8412
     },
     {
       "appid": 252950,
@@ -568,9 +568,9 @@
       "name": "Rocket League®",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/0a3a0440e101436b154c06040722f27950d67e22/header_alt_assets_16.jpg?t=1781288662",
       "storeUrl": "https://store.steampowered.com/app/252950",
-      "currentPlayers": 8994,
-      "previousPlayers": 15820,
-      "change": -6826
+      "currentPlayers": 22714,
+      "previousPlayers": 8994,
+      "change": 13720
     },
     {
       "appid": 892970,
@@ -580,9 +580,9 @@
       "name": "Valheim",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789013565",
       "storeUrl": "https://store.steampowered.com/app/892970",
-      "currentPlayers": 24877,
-      "previousPlayers": 26799,
-      "change": -1922
+      "currentPlayers": 36852,
+      "previousPlayers": 24877,
+      "change": 11975
     },
     {
       "appid": 2406770,
@@ -592,9 +592,9 @@
       "name": "Bodycam",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/8d2765de57931435f802fa6757ad6920aea8646a/header_alt_assets_0.jpg?t=1788548796",
       "storeUrl": "https://store.steampowered.com/app/2406770",
-      "currentPlayers": 7228,
-      "previousPlayers": 12154,
-      "change": -4926
+      "currentPlayers": 10867,
+      "previousPlayers": 7228,
+      "change": 3639
     },
     {
       "appid": 1086940,
@@ -604,9 +604,9 @@
       "name": "Baldur's Gate 3",
       "capsuleUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
       "storeUrl": "https://store.steampowered.com/app/1086940",
-      "currentPlayers": 25369,
-      "previousPlayers": 27431,
-      "change": -2062
+      "currentPlayers": 33222,
+      "previousPlayers": 25369,
+      "change": 7853
     }
   ]
 }
